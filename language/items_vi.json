@@ -2184,7 +2184,7 @@
     {
         "name":"redstone_wire",
         "image":"redstone_wire",
-        "display":"Dây đá đỏ (Redstone Wire)",
+        "display":"Dây Redstone (Redstone Wire)",
         "type":"block",
         "block_type":"solid",
         "oldId":"redstone_wire",
@@ -2391,7 +2391,7 @@
     {
         "name":"redstone_ore",
         "image":"redstone_ore",
-        "display":"Quặng đá đỏ",
+        "display":"Quặng Redstone",
         "type":"block",
         "block_type":"solid",
         "oldId":"redstone_ore",
@@ -2400,7 +2400,7 @@
     {
         "name":"lit_redstone_ore",
         "image":"lit_redstone_ore",
-        "display":"Quặng đá đỏ phát sáng",
+        "display":"Quặng Redstone phát sáng",
         "type":"block",
         "block_type":"solid",
         "oldId":"lit_redstone_ore",
@@ -2409,7 +2409,7 @@
     {
         "name":"unlit_redstone_torch",
         "image":"unlit_redstone_torch",
-        "display":"Quặng đá đỏ không phát sáng",
+        "display":"Quặng Redstone không phát sáng",
         "type":"block",
         "block_type":"torch",
         "oldId":"unlit_redstone_torch",
@@ -2418,7 +2418,7 @@
     {
         "name":"redstone_torch",
         "image":"redstone_torch",
-        "display":"Đuốc đá đỏ",
+        "display":"Đuốc Redstone",
         "type":"block",
         "block_type":"torch",
         "oldId":"redstone_torch",
@@ -2427,7 +2427,7 @@
     {
         "name":"redstone_wall_torch",
         "image":"redstone_wall_torch",
-        "display":"Đuốc đá đỏ gắn trên tường",
+        "display":"Đuốc Redstone gắn trên tường",
         "type":"block",
         "block_type":"torch",
         "oldId":"redstone_torch",
@@ -5128,7 +5128,7 @@
     {
         "name":"acacia_fence",
         "image":"acacia_fence",
-        "display":"Acacia Fence",
+        "display":"Hàng rào gỗ xiêm gai",
         "type":"block",
         "block_type":"solid",
         "oldId":"acacia_fence",
