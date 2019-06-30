@@ -1,5 +1,50 @@
 [
   {
+    "name":"acacia_sign",
+    "image":"acacia_sign",
+    "display":"Tấm biển gỗ xiêm gai",
+    "type":"block",
+    "block_type":"sign",
+    "oldId":"none",
+    "unset":false
+  },
+  {
+    "name":"birch_sign",
+    "image":"birch_sign",
+    "display":"Tấm biển gỗ bạch dương",
+    "type":"block",
+    "block_type":"sign",
+    "oldId":"none",
+    "unset":false
+  },
+  {
+    "name":"spruce_sign",
+    "image":"spruce_sign",
+    "display":"Tấm biển gỗ vân xâm",
+    "type":"block",
+    "block_type":"sign",
+    "oldId":"none",
+    "unset":false
+  },
+  {
+    "name":"jungle_sign",
+    "image":"jungle_sign",
+    "display":"Tấm biển gỗ rừng",
+    "type":"block",
+    "block_type":"sign",
+    "oldId":"none",
+    "unset":false
+  },
+  {
+    "name":"dark_oak_sign",
+    "image":"dark_oak_sign",
+    "display":"Tấm biển gỗ sồi xẫm",
+    "type":"block",
+    "block_type":"sign",
+    "oldId":"none",
+    "unset":false
+  },
+  {
     "name":"barrel",
     "image":"barrel",
     "display":"Thùng",
@@ -3835,6 +3880,7 @@
         "oldId":"powered_comparator",
         "unset":true
     },
+
     {
         "name":"daylight_detector",
         "image":"daylight_detector",
